@@ -1,6 +1,6 @@
 {
   "name": "@syntropy/mongoose-document-versioner",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Force version to increment every time you update or save a mongoose document",
   "main": "src/",
   "scripts": {
